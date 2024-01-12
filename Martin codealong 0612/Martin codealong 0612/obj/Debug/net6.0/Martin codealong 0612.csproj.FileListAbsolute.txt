@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\bin\Debug\net6.0\Martin codealong 0612.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\bin\Debug\net6.0\Martin codealong 0612.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\bin\Debug\net6.0\Martin codealong 0612.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\bin\Debug\net6.0\Martin codealong 0612.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\bin\Debug\net6.0\Martin codealong 0612.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\refint\Martin codealong 0612.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\Martin codealong 0612.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Martin codealong 0612\Martin codealong 0612\obj\Debug\net6.0\ref\Martin codealong 0612.dll
